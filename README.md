@@ -1,0 +1,3 @@
+# CatrinaPCBdesign
+This is a small pcb to comemorate the "Dia de Muertos" festival, a really famous and important tradition in Mexico, i designed this board using EASYEDA.com, a really power full tool on the pcb design process, this tool also provides you the gerber files or the link to directly produce your PCB at jlcpcb.com, an awesome pcb  manufacturer that lets you have the best quality products at the lowest cost.  The design was made to be fit in les than 100x100 mm pcb so you could get the special offer of 5 pieces for 2 dolars, The pcb have the silkscreen on the top layer regarding to the "catrina" figure and at the bottom i placed some tracks with exposed copper to show the electronic side of a pcb.
+
